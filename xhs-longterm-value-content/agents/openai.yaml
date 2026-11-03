@@ -1,0 +1,7 @@
+interface:
+  display_name: "长期主义女大好物内容"
+  short_description: "从热点调研到图文成品的好物帖工作流"
+  brand_color: "#D98EB2"
+  default_prompt: "Use $xhs-longterm-value-content to create a researched six-product Xiaohongshu post for my account."
+policy:
+  allow_implicit_invocation: true
